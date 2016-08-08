@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication21", "ConsoleApplication21\ConsoleApplication21.csproj", "{428D3810-8586-479B-A4A2-2A8EA3630454}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "ConsoleApplication21\BankAccount.csproj", "{428D3810-8586-479B-A4A2-2A8EA3630454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
